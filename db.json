@@ -1,0 +1,96 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Cube 1",
+      "description": "This is the Cube 1 description.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41dJ7B8k4PL.jpg",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "title": "Cube 2",
+      "description": "This is the Cube 2 description.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41dJ7B8k4PL.jpg",
+      "price": 200
+    },
+    {
+      "id": 3,
+      "title": "Cube 3",
+      "description": "This is the Cube 3 description.",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41dJ7B8k4PL.jpg",
+      "price": 300
+    },
+    {
+      "id": 4,
+      "title": "Cube 4",
+      "description": "This is the Cube 4 description.",
+      "imageUrl": "https://i.pinimg.com/474x/64/56/db/6456dbcb2e648cbb9b7e331abc0dbc36.jpg",
+      "price": 400
+    },
+    {
+      "id": 5,
+      "title": "Cube 5",
+      "description": "This is the Cube 5 description.",
+      "imageUrl": "https://i.pinimg.com/474x/64/56/db/6456dbcb2e648cbb9b7e331abc0dbc36.jpg",
+      "price": 500
+    },
+    {
+      "id": 6,
+      "title": "Cube 6",
+      "description": "This is the Cube 6 description.",
+      "imageUrl": "https://i.pinimg.com/474x/64/56/db/6456dbcb2e648cbb9b7e331abc0dbc36.jpg",
+      "price": 600
+    },
+    {
+      "id": 7,
+      "title": "Cube 7",
+      "description": "This is the Cube 7 description.",
+      "imageUrl": "https://static-01.daraz.pk/p/127b65d3eb3de0de2bcd7c00f3d176aa.jpg",
+      "price": 700
+    },
+    {
+      "id": 8,
+      "title": "Cube 8",
+      "description": "This is the Cube 8 description.",
+      "imageUrl": "https://static-01.daraz.pk/p/127b65d3eb3de0de2bcd7c00f3d176aa.jpg",
+      "price": 800
+    },
+    {
+      "id": 9,
+      "title": "Cube 9",
+      "description": "This is the Cube 9 description.",
+      "imageUrl": "https://static-01.daraz.pk/p/127b65d3eb3de0de2bcd7c00f3d176aa.jpg",
+      "price": 900
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 1,
+        "title": "Cube 1",
+        "description": "This is the Cube 1 description.",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41dJ7B8k4PL.jpg",
+        "price": 100
+      },
+      "id": 1
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
